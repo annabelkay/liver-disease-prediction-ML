@@ -2,7 +2,7 @@
 
 ## Description 🖋️
 
-This repository demonstrates the usage of a Random Forest Model to predict patients with liver disease.
+This repository demonstrates the usage of a Random Forest Model to predict patients with liver disease. This was taken from a larger group project.
 
 ### Original Dataset:
 
